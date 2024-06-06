@@ -24,15 +24,16 @@ pip install xgboost
 pip install matplotlib
 pip install seaborn
 pip install streamlit
+pip install joblib
 ```
 
 **Usage**
 
 To use this project, follow these steps:
 
-1. Clone the repository: ```git clone https://github.com/gopiashokan/Industrial-Copper-Modeling.git```
+1. Clone the repository: ```https://github.com/AkashScoder/Industrial-Copper-Modelling.git```
 2. Install the required packages: ```pip install -r requirements.txt```
-3. Run the Streamlit app: ```streamlit run app.py```
+3. Run the Streamlit app: ```streamlit run copper_modelling_app.py```
 4. Access the app in your browser at ```http://localhost:8501```
 
 
@@ -106,9 +107,9 @@ This project is licensed under the MIT License. Please review the LICENSE file f
 
 **Contact**
 
-📧 Email: gopiashokankiot@gmail.com 
+📧 Email: Notifyak2002@gmail.com
 
-🌐 LinkedIn: [linkedin.com/in/gopiashokan](https://www.linkedin.com/in/gopiashokan)
+🌐 LinkedIn: [https://www.linkedin.com/in/akash-s-717698208/]
 
 For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
 
