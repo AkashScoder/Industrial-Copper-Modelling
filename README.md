@@ -3,11 +3,11 @@ This project aims to develop predictive models for predicting the selling price 
 
 ** Technologies used **
 This project involves a complete suite of technologies.They are listed below
-1)Numpy
-2)Pandas
-3)matplotlib
-4)seaborn
-5)Scikit-Learn
-6)Xgboost
-7)Joblib
+1. Numpy
+2. Pandas
+3. matplotlib
+4. seaborn
+5. Scikit-Learn
+6. Xgboost
+7. Joblib
 
