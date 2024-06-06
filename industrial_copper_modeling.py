@@ -675,12 +675,4 @@ with open('/content/regression_model.joblib', 'rb') as f:
 y_pred = model.predict(np.array([[30202938,25,1,5,41,1210,1668701718,6.6,-0.2,1,4,2021,1,4,2021]]))
 np.exp(y_pred[0])
 
-!pip show scikit-learn
-
-import joblib
-!pip show joblib.__version__
-
-!pip install joblib scikit-learn
-
-joblib.__version__
 
